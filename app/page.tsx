@@ -309,7 +309,7 @@ export default function HomePage() {
               </div>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-gray-400 text-xs sm:text-sm">© 2024 SERVE THEM Health Food Hub. All rights reserved.</p>
+              <p className="text-gray-400 text-xs sm:text-sm">© 2025 SERVE THEM Health Food Hub. All rights reserved.</p>
               <p className="text-gray-400 text-xs sm:text-sm">Health Education Ministry & Three Angels Messages</p>
             </div>
           </div>
